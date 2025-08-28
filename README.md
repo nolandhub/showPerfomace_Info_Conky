@@ -18,12 +18,12 @@ mv themes $HOME/.config/conky
 ```
 You can edit *[launch.sh](launch.sh)* to launch one of the following themes or just launch it manually `conky -c <path-to-theme>`.
 
-####################################################      Note for you      ##########################################################
+#################### Note for you ##################      
 --- Install Roboto Mono Font Nerd
 --- Icon can not read #maybe Removed/out_date ==> find and re_Parse 
 --- re_config change wl0,.. use name network Card on your device to show network Info ##command #(  name@name$ip a  )##
 --- X,Y change position whole board
-######################################################################################################################################
+####################################################
 
 
 ## Preview
