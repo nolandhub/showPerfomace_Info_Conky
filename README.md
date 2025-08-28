@@ -19,11 +19,11 @@ mv themes $HOME/.config/conky
 You can edit *[launch.sh](launch.sh)* to launch one of the following themes or just launch it manually `conky -c <path-to-theme>`.
 
 ## Notes & Tips
-+Fonts: Ensure Roboto Mono Nerd Font is installed, otherwise icons may not render.
-+Icons: Some icons may be missing due to outdated or removed glyphs; update the font if needed.
-+Positioning: Adjust gap_x and gap_y in the theme config to move the board on your screen.
+1. Fonts: Ensure Roboto Mono Nerd Font is installed, otherwise icons may not render.
+2. Icons: Some icons may be missing due to outdated or removed glyphs; update the font if needed.
+3. Positioning: Adjust gap_x and gap_y in the theme config to move the board on your screen.
 ///
-+Network Interface: Replace interface names (wl0, wlp46s0, etc.) in the configuration to match your system:
+4. Network Interface: Replace interface names (wl0, wlp46s0, etc.) in the configuration to match your system:
 ## Check network configure
 ```bash
 ls a
